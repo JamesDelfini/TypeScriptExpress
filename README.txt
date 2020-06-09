@@ -13,3 +13,14 @@
 
         # Express
             > npm i express
+    
+    # Commands
+        # Run the project in development mode
+            > npm run dev
+        
+        # Build the project
+            > npm run build
+
+            # Run the project in production mode
+                Build before running the project
+                > npm run start
