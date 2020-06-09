@@ -7,6 +7,9 @@
         
             # Add TypeScript Script Configuration
                 > tsc --init
-
+        
         # Dev Dependicies - TypeScript Locally, ts-node, and file watch(nodemon) and types for node and express
             > npm i -D typescript ts-node nodemon @types/node @types/express
+
+        # Express
+            > npm i express
