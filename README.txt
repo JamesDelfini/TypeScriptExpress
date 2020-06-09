@@ -24,3 +24,8 @@
             # Run the project in production mode
                 Build before running the project
                 > npm run start
+
+# Source
+    # TypeScript Setup With Node & Express
+        > https://www.youtube.com/watch?v=zRo2tvQpus8
+
